@@ -2,7 +2,7 @@
 Login Window:
 ![1](https://github.com/dawiddubicki7/Bank_App/assets/100204532/fd433b0a-1815-4820-b27f-885484f8dfc3)
 # Registration Window:
-<p style="font-size:18px;">To register, click on the "Sign Up" button. Fill in the required details and submit the form to create your account.</p>
+<p style="font-size:18px;">To register, click on the "Zarejestruj się" button. Fill in the required details and submit the form to create your account.</p>
 
 ![2](https://github.com/dawiddubicki7/Bank_App/assets/100204532/576e4659-eee5-422c-bac1-6896f4a1ce4c)
 # Home page:
