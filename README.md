@@ -12,7 +12,7 @@ Login Window:
 # Deposit:
 <p style="font-size:18px;">To deposit money into your account:</p>
 <ol style="font-size:18px;">
-  <li>Click on the "Deposit" button on the home page.</li>
+  <li>Click on the "Wpłać" button on the home page.</li>
   <li>Enter the amount you wish to deposit.</li>
   <li>Confirm the transaction.</li>
 </ol>
@@ -20,7 +20,7 @@ Login Window:
 # Withdraw:
 <p style="font-size:18px;">To withdraw money from your account:</p>
 <ol style="font-size:18px;">
-  <li>Click on the "Withdraw" button on the home page.</li>
+  <li>Click on the "Wypłać" button on the home page.</li>
   <li>Enter the amount you wish to withdraw.</li>
   <li>Confirm the transaction.</li>
 </ol>
@@ -28,7 +28,7 @@ Login Window:
 # Checking balance:
 <p style="font-size:18px;">To check your account balance:</p>
 <ol style="font-size:18px;">
-  <li>Click on the "Balance" button on the home page.</li>
+  <li>Click on the "Sprawdź saldo" button on the home page.</li>
   <li>Your current account balance will be displayed on the screen.</li>
 </ol>
 ![6](https://github.com/dawiddubicki7/Bank_App/assets/100204532/fa367e0e-2b5d-4409-ad96-17c977f151a6)
