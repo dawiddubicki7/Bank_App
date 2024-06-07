@@ -16,6 +16,7 @@ Login Window:
   <li>Enter the amount you wish to deposit.</li>
   <li>Confirm the transaction.</li>
 </ol>
+
 ![4](https://github.com/dawiddubicki7/Bank_App/assets/100204532/33755db9-277a-4317-9090-19dca35a609b)
 # Withdraw:
 <p style="font-size:18px;">To withdraw money from your account:</p>
@@ -24,6 +25,7 @@ Login Window:
   <li>Enter the amount you wish to withdraw.</li>
   <li>Confirm the transaction.</li>
 </ol>
+
 ![5](https://github.com/dawiddubicki7/Bank_App/assets/100204532/77df0ac8-119d-43c7-9312-75c3cb4480fc)
 # Checking balance:
 <p style="font-size:18px;">To check your account balance:</p>
@@ -31,4 +33,5 @@ Login Window:
   <li>Click on the "Sprawdź saldo" button on the home page.</li>
   <li>Your current account balance will be displayed on the screen.</li>
 </ol>
+
 ![6](https://github.com/dawiddubicki7/Bank_App/assets/100204532/fa367e0e-2b5d-4409-ad96-17c977f151a6)
